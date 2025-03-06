@@ -1,0 +1,14 @@
+openai
+matplotlib
+tqdm
+pandas
+numpy
+nbexec
+jupyterlab
+load_dotenv
+scikit-learn
+seaborn
+ipywidgets
+jupyterlab
+python-dotenv
+nltk
